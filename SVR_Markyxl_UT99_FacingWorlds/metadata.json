@@ -1,0 +1,12 @@
+{
+	"Id": "SVR_Markyxl_UT99_FacingWorlds",
+	"Version": 3,
+	"MapLabel": "UT99-Facing Worlds",
+	"IsCustomGameMode": false,
+	"CustomGameModeLabel": "",
+	"AndroidPakSize": 28356721,
+	"WindowsPakSize": 0,
+	"LinuxServerPakSize": 0,
+	"ShackLinuxServerPakSize": 1168862,
+	"EngineVersion": "4.27"
+}

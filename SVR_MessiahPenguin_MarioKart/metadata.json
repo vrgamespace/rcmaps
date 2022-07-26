@@ -1,0 +1,12 @@
+{
+	"Id": "SVR_MessiahPenguin_MarioKart",
+	"Version": 6,
+	"MapLabel": "Mario Kart ",
+	"IsCustomGameMode": true,
+	"CustomGameModeLabel": "MarioKart",
+	"AndroidPakSize": 25835600,
+	"WindowsPakSize": 0,
+	"LinuxServerPakSize": 0,
+	"ShackLinuxServerPakSize": 12169327,
+	"EngineVersion": "4.27"
+}

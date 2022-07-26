@@ -1,0 +1,12 @@
+{
+	"Id": "SVR_Markyxl_SWAT4-Garage",
+	"Version": 2,
+	"MapLabel": "SWAT4-Garage",
+	"IsCustomGameMode": false,
+	"CustomGameModeLabel": "",
+	"AndroidPakSize": 42965696,
+	"WindowsPakSize": 0,
+	"LinuxServerPakSize": 0,
+	"ShackLinuxServerPakSize": 7757101,
+	"EngineVersion": "4.27"
+}

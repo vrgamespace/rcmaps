@@ -1,0 +1,12 @@
+{
+	"Id": "SVR_Markyxl_UT2k4-Idoma",
+	"Version": 2,
+	"MapLabel": "UT2004-Idoma",
+	"IsCustomGameMode": false,
+	"CustomGameModeLabel": "",
+	"AndroidPakSize": 21210069,
+	"WindowsPakSize": 0,
+	"LinuxServerPakSize": 0,
+	"ShackLinuxServerPakSize": 4020035,
+	"EngineVersion": "4.27"
+}
