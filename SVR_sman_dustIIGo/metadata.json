@@ -1,0 +1,12 @@
+{
+	"Id": "SVR_sman_dustIIGo",
+	"Version": 1,
+	"MapLabel": "DustIIGo",
+	"IsCustomGameMode": false,
+	"CustomGameModeLabel": "",
+	"AndroidPakSize": 27757084,
+	"WindowsPakSize": 0,
+	"LinuxServerPakSize": 0,
+	"ShackLinuxServerPakSize": 4116896,
+	"EngineVersion": "4.27"
+}
