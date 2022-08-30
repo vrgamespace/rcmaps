@@ -1,0 +1,12 @@
+{
+	"Id": "SVR_littledude_rampart",
+	"Version": 2,
+	"MapLabel": "Rampart",
+	"IsCustomGameMode": false,
+	"CustomGameModeLabel": "",
+	"AndroidPakSize": 1244157,
+	"WindowsPakSize": 0,
+	"LinuxServerPakSize": 0,
+	"ShackLinuxServerPakSize": 135611,
+	"EngineVersion": "4.27"
+}
